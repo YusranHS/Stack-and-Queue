@@ -1,6 +1,7 @@
 # Stack-and-Queue
 Nama : Muhammad Yusran Hardimas Setiawan<br>
-NIM  : H071211024<br>
+NIM : H071211024<br>
+Kelas : Struktur Data A<br>
 
 #
 
