@@ -174,3 +174,8 @@ Queue is Empty : true
 Size of the queue : 2                 
 Element removed from front end : 79   
 ```
+
+Referensi:
+- https://everythingcomputerscience.com/discrete_mathematics/Stacks_and_Queues.html
+- https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/
+- https://www.scaler.com/topics/java/stack-and-queue-in-java/
